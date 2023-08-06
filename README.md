@@ -44,3 +44,10 @@ Create .env file in the backend and insert these values:
 3. Access the application in your browser at `http://localhost:3000`.
 
 ## Screenshots
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/1.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/1.2.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/2.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/3.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/4.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/5.png" style="margin-top: 30px"  align='center'>
+<img src="https://github.com/vishwas031/shopSavvy-frontend/blob/master/public/6.png" style="margin-top: 30px"  align='center'>
